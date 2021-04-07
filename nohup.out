@@ -1,0 +1,38 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.intellij.util.ui.StartupUiUtil to constructor com.sun.java.swing.plaf.gtk.GTKLookAndFeel()
+WARNING: Please consider reporting this to the maintainers of com.intellij.util.ui.StartupUiUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-04-06 13:36:43,437 [    958]   WARN - llij.ide.plugins.PluginManager - <resource-bundle>messages.DataGripBundle</resource-bundle> tag is found in an xml descriptor included into the platform part of the IDE but the platform part uses predefined bundles (e.g. ActionsBundle for actions) anyway; this tag must be replaced by a corresponding attribute in some inner tags (e.g. by 'resource-bundle' attribute in 'actions' tag) 
+2021-04-06 13:36:47,018 [   4539]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-06 13:36:47,027 [   4548]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-04-06 13:36:47,027 [   4548]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-04-06 13:36:47,028 [   4549]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-06 13:36:47,094 [   4615]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.intellij.util.ui.StartupUiUtil to constructor com.sun.java.swing.plaf.gtk.GTKLookAndFeel()
+WARNING: Please consider reporting this to the maintainers of com.intellij.util.ui.StartupUiUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-04-06 13:38:45,885 [    932]   WARN - llij.ide.plugins.PluginManager - <resource-bundle>messages.DataGripBundle</resource-bundle> tag is found in an xml descriptor included into the platform part of the IDE but the platform part uses predefined bundles (e.g. ActionsBundle for actions) anyway; this tag must be replaced by a corresponding attribute in some inner tags (e.g. by 'resource-bundle' attribute in 'actions' tag) 
+2021-04-06 13:38:48,620 [   3667]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-06 13:38:48,629 [   3676]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-04-06 13:38:48,629 [   3676]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-04-06 13:38:48,630 [   3677]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-06 13:38:48,734 [   3781]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.intellij.util.ui.StartupUiUtil to constructor com.sun.java.swing.plaf.gtk.GTKLookAndFeel()
+WARNING: Please consider reporting this to the maintainers of com.intellij.util.ui.StartupUiUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-04-06 13:54:54,694 [    601]   WARN - llij.ide.plugins.PluginManager - <resource-bundle>messages.DataGripBundle</resource-bundle> tag is found in an xml descriptor included into the platform part of the IDE but the platform part uses predefined bundles (e.g. ActionsBundle for actions) anyway; this tag must be replaced by a corresponding attribute in some inner tags (e.g. by 'resource-bundle' attribute in 'actions' tag) 
+2021-04-06 13:54:56,554 [   2461]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-06 13:54:56,558 [   2465]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-04-06 13:54:56,559 [   2466]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-04-06 13:54:56,559 [   2466]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-06 13:54:56,588 [   2495]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+2021-04-06 13:56:26,012 [  91919]   WARN - penapi.actionSystem.impl.Utils - Skipping empty menu item for action  () of class com.intellij.codeInsight.navigation.actions.MethodDownAction 
+2021-04-06 13:56:26,012 [  91919]   WARN - penapi.actionSystem.impl.Utils - Skipping empty menu item for action  () of class com.intellij.codeInsight.navigation.actions.MethodUpAction 
